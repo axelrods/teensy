@@ -1,3 +1,7 @@
-# teensy
-A spot for my new npm module
-https://img.shields.io/npm/v/:scope/:packageName.svg
+# @axelrods/teensy
+
+[![npm (scoped)]
+(https://img.shields.io/npm/v/@axelrods/teensy.svg)]
+(https://github.com/@axelrods/teensy)
+
+It's the teensiest
